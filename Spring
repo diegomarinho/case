@@ -1,0 +1,9 @@
+
+[1;31mStop! gradle Boot is not available. Possible causes:[0m
+[1;31m * Boot is an invalid version[0m
+[1;31m * gradle binaries are incompatible with your platform[0m
+[1;31m * gradle has not been released yet[0m
+
+[1;33mTip: see all available versions for your platform:[0m
+
+[1;33m  $ sdk list gradle[0m
